@@ -1,4 +1,10 @@
-### Hi there 👋
+<table style="width:100%">
+  <tr>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=andyzhu23&show_icons=true&hide_border=true&theme=midnight-purple" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyzhu23&layout=compact&langs_count=6&theme=midnight-purple" /></th>
+  </tr>
+</table>
+
 
 <!--
 **andyzhu23/andyzhu23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
