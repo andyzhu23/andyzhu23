@@ -1,8 +1,5 @@
 ![Visitors](https://komarev.com/ghpvc/?username=andyzhu23&color=blueviolet)
 
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyzhu23&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andyzhu23&layout=compact)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andyzhu23)
 
